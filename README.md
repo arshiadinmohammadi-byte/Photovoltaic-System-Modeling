@@ -21,7 +21,7 @@ The project combines electrical simulation, PV system design, and three-dimensio
 * **PVsyst** — PV system design, configuration, shading analysis, and performance evaluation.
 * **TRNSYS** — Time-dependent simulation of photovoltaic module behavior.
 * **MATLAB** — Numerical calculations and data analysis, where applicable.
-* **SolidWorks** — Three-dimensional modeling and panel arrangement.
+* **SolidWorks** — Two-dimensional modeling and panel arrangement.
 
 ## System Configuration
 
@@ -47,7 +47,7 @@ The simulations were used to assess inverter compatibility, system losses, and o
 
 ### Geometric Modeling and Shading Analysis
 
-SolidWorks was used to develop a three-dimensional arrangement of the photovoltaic panels. The modeled configuration consists of **14 panels in the horizontal direction and 17 panels in the vertical direction**.
+SolidWorks was used to develop a two-dimensional arrangement of the photovoltaic panels. The modeled configuration consists of **14 panels in the horizontal direction and 17 panels in the vertical direction**.
 
 Shading analysis was performed for the winter solstice, December 21, at 3:00 PM to investigate the effect of solar position and geometric shading on the PV array.
 
