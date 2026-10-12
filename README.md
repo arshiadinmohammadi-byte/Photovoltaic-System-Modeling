@@ -74,15 +74,9 @@ photovoltaic-system-modeling/
 ├── PVsyst/
 │   ├── project_files/
 │   └── reports/
-├── SolidWorks/
-│   ├── CAD_files/
-│   └── renders/
 ├── MATLAB/
-│   └── scripts/
-└── figures/
-    ├── iv_curves/
-    ├── system_layout/
-    └── shading_analysis/
+   └── scripts/
+
 ```
 
 The folder structure is a suggested organization. Modify it to match the files included in the repository.
